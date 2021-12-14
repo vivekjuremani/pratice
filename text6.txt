@@ -1,3 +1,5 @@
 s this file is just agout learning gitignor
 :x
 
+t good
+
